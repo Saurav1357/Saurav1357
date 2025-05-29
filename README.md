@@ -1,5 +1,24 @@
 # 💫 About Me:
-👋 Hello, I'm Saurav Patel, a passionate second-year CSE student at PCCOE College in India. Here's a glimpse into my world:<br><br>💻 Currently, I'm diving into the fascinating realm of web development and exploring the intricacies of web 3 projects.<br>🤝 I'm enthusiastic about collaborating with like-minded individuals on innovative projects that leverage the power of blockchain technology and decentralized networks.<br>🔎 I'm seeking guidance and assistance from experienced developers to deepen my understanding of blockchain and network architectures and its practical applications in various industries.<br>🌱 Constantly learning and expanding my skill set, I'm focused on acquiring expertise in cutting-edge technologies, frameworks, and programming languages.<br>❓ Feel free to ask me anything about web development, programming, or the latest trends in the tech industry.<br>😄 Fun fact: When I'm not coding, you'll find me exploring nature and traveling, which fuels my curiosity and creativity.<br>Let's connect and build something amazing together! 🚀
+
+Hi, I'm Saurav Patel – a Computer Science and Engineering graduate from GSFC University, specializing in AI/ML and Data Science. I’m passionate about exploring emerging technologies and building impactful software solutions.
+
+💡 Key Highlights:
+
+💻 Proficient in Java, C++, Python, PHP, and Solidity
+
+⚙️ Hands-on experience in web development, backend API creation, and smart contract development
+
+🔍 Strong in OOP concepts, debugging, and problem-solving
+
+🤝 Collaborative team player with solid communication skills
+
+📈 Quick to adapt and always eager to learn new tools and technologies
+
+🔬 Experienced with AI/ML, MongoDB/MySQL, Docker, and Postman
+
+🔧 I’ve completed internships at GIRO Fintech, HACKVEDA, and Esparse Matrix Solutions, where I worked on real-world software projects.
+
+📂 Explore my repositories to see projects like a Netflix Clone, Smart Expense Tracker, and a Blockchain Voting System
 
 
 ## 🌐 Socials:
